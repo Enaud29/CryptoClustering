@@ -18,5 +18,5 @@ _PCA1 & PCA2 Scatter Plot_
 ![Screenshot 2024-05-31 at 4 17 56 PM](https://github.com/Enaud29/CryptoClustering/assets/161158238/0d23b78e-ad2e-47f5-8744-a4eedf550341)
 
 
-# References
+#### References
 Chat GPT, Kalvin Anlgin, Solutions examples from class.

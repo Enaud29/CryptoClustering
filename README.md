@@ -3,7 +3,7 @@
 
 ![clustering](https://github.com/Enaud29/CryptoClustering/assets/161158238/ebf075f9-7554-4472-887a-043121e4c6ba)
 
-###Summary
+## Summary
 
 For this assignment I prepared the data by using StandartScaler from scikit-learn. I used the Elbow method to determind the best value for k which was 4. Then I initialize the K-means model to determined best k value. I fit the model using the original scaled DataFrame. Then create a scatterplot with “price_change_percentage_24h” on the x-axis and “price_change_percentage_7d” on the y-axis. I used Principal Component Analysis to scale the DataFrame and reduce features to 3 components. I used the elbow method again to find the best value for k using the PCA data.
 

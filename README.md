@@ -3,7 +3,7 @@
 
 ![clustering](https://github.com/Enaud29/CryptoClustering/assets/161158238/ebf075f9-7554-4472-887a-043121e4c6ba)
 
-###Summary###
+##Summary
 
 For this assignment we prepared the data by using StandartScaler from scikit-learn. We used the Elbow method to determind the best value for k which was 4.
 
